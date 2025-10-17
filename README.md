@@ -4,7 +4,7 @@
 - 💬 A bit about me...
   when I’m not coding, I enjoy exploring new AI ideas and also curious about how machines see the world — that’s why I’m exploring **Computer Vision** and **AI**.
 
-- 🌱 Currently learning ****Pytorch**, **OpenCV**, and **Flutter**.**
+- 🌱 Currently learning ****Pytorch**, **OpenCV**, and **Flutter**.** Together with the **HayrApp organization**, we are creating **game-based content using Flutter**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
